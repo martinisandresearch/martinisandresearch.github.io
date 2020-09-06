@@ -1,4 +1,4 @@
-## Welcome to Martinis and Research
+## Martinis and Research
 
 ### Projects
 
