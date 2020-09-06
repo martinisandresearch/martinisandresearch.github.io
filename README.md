@@ -1,4 +1,3 @@
-## Martinis and Research
 
 ### Projects
 
@@ -6,7 +5,7 @@
 
 ### About Us
 
-A group of three sydneysiders who enjoy neural networks and martinis and combine to investigate the various 
+A group of three sydneysiders who enjoy neural networks and martinis and combine to investigate them both
 
 - [Varun Nayyar](https://github.com/nayyarv)
 - [Aidan Morrison](https://github.com/aidandmorrison)
