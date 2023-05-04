@@ -1,8 +1,3 @@
----
-layout: page
-title: Projects
----
-
 
 ### [Bayesnets](https://martinisandresearch.github.io/bayesnets/intro.html)
 
