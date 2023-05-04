@@ -1,4 +1,4 @@
-## Martinis And Research
+## About
 
 A group of Sydney Siders that come together to discuss ML and drink martinis. See our talks
 
