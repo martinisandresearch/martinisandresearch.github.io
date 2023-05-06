@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+remote_theme: sighingnow/jekyll-gitbook
 description: Martinis And Research
 titles_from_headings:
   enabled:     true
