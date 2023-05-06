@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
-title: Martinis And Research
-description: The ML Salon
+description: Martinis And Research
+titles_from_headings:
+  enabled:     true
